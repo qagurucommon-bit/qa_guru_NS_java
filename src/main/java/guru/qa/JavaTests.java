@@ -22,7 +22,6 @@ public class JavaTests {
         System.out.println("a<=b= " + (a<=b));
 
         // 4) получить переполнение при арифметической операции
-
         int maxValue = Integer.MAX_VALUE;
         int maxResult = Integer.MAX_VALUE + 1;
         System.out.println("maxValue + 1 = " + (maxResult));
