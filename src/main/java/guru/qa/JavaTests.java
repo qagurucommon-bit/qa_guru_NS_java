@@ -9,7 +9,7 @@ public class JavaTests {
         System.out.println("a+b= " + (a+b));
         System.out.println("a-b= " + (a-b));
         System.out.println("a*b= " + (a*b));
-        System.out.println("b/a= " + (a/b));
+        System.out.println("b/a= " + (b/a));
 
         // 1) применить несколько арифметических операций над int и double в одном выражении
         double c = 2.2;
