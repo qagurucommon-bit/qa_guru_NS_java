@@ -19,7 +19,7 @@ public class jUnitTests {
     }
 
     @ValueSource(strings = {
-            "страус", "акула", "енотик"
+            "ослик", "акула", "енотик"
     })
     @ParameterizedTest(name = "При поиске товара {0} отображается список с карточками")
     @Tag("BLOCKER")
